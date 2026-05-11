@@ -1,0 +1,10 @@
+# Environnements virtuels
+venv/
+.env/
+__pycache__/
+
+# Fichiers Jupyter
+.ipynb_checkpoints/
+
+# Données sensibles
+*.env
