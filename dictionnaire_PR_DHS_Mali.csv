@@ -1,0 +1,312 @@
+﻿code_variable,description
+hhid,case identification
+hvidx,line number
+hv000,country code and phase
+hv001,cluster number
+hv002,household number
+hv003,respondent's line number (answering household questionnaire)
+hv004,ultimate area unit
+hv005,household sample weight (6 decimals)
+hv006,month of interview
+hv007,year of interview
+hv008,date of interview (cmc)
+hv008a,date of interview century day code (cdc)
+hv009,number of household members
+hv010,number of eligible women in household
+hv011,na - number of eligible men in household
+hv012,number of de jure members
+hv013,number of de facto members
+hv014,number of children 5 and under (de jure)
+hv015,result of household interview
+hv016,day of interview
+hv017,number of visits
+hv018,interviewer identification
+hv019,na - keyer identification
+hv020,ever-married sample
+hv021,primary sampling unit
+hv022,sample strata for sampling errors
+hv023,stratification used in sample design
+hv024,region
+hv025,type of place of residence
+hv026,na - place of residence
+hv027,na - household selected for male interview
+hv028,na - household weight for male subsample (6 decimals)
+hv030,field supervisor
+hv031,na - field editor
+hv032,na - office editor
+hv035,number of eligible children for height and weight
+hv040,cluster altitude in meters
+hv041,na - total adults measured
+hv042,household selected for hemoglobin
+hv044,na - household selected for domestic violence module
+hv045a,language of questionnaire
+hv045b,language of interview
+hv045c,native language of respondent
+hv046,translator used
+hv801,time interview started (hhmm - 24 hour clock)
+hv802,time interview ended (hhmm - 24 hour clock)
+hv803,length of interview in minutes
+hv804,number of visits for biomarker
+hv807d,day of biomarker visit
+hv807m,month of biomarker visit
+hv807y,year of biomarker visit
+hv807c,date of biomarker (cmc)
+hv807a,date of biomarker century day code (cdc)
+hv201,source of drinking water
+hv202,source of non-drinking water
+hv201a,na - water not available for at least a day last two weeks
+hv204,time to get to water source (minutes)
+hv205,type of toilet facility
+hv206,has electricity
+hv207,has radio
+hv208,has television
+hv209,has refrigerator
+hv210,has bicycle
+hv211,has motorcycle/scooter
+hv212,has car/truck
+hv213,main floor material
+hv214,main wall material
+hv215,main roof material
+hv216,number of rooms used for sleeping
+hv217,relationship structure
+hv218,line number of head of household
+hv219,sex of head of household
+hv220,age of head of household
+hv221,has telephone (land-line)
+hv225,share toilet with other households
+hv226,type of cooking fuel
+hv227,has mosquito bed net for sleeping
+hv228,children under 5 slept under mosquito bed net last night
+hv230a,na - place where household members wash their hands
+hv230b,na - presence of water at hand washing place
+hv232,na - items present: soap or detergent
+hv232b,"na - items present: ash, mud, sand"
+hv232c,na - items present: cs
+hv232d,na - items present: cs
+hv232e,na - items present: cs
+hv232y,na - items present: none
+hv234,na - result of salt test for iodine (ppm)
+hv234a,na - result of salt test for iodine
+hv235,location of source for water
+hv236,na - person fetching water
+hv237,na - anything done to water to make safe to drink
+hv237a,na - water usually treated by: boil
+hv237b,na - water usually treated by: add bleach/chlorine
+hv237c,na - water usually treated by: strain through a cloth
+hv237d,na - water usually treated by: use water filter
+hv237e,na - water usually treated by: solar disinfection
+hv237f,na - water usually treated by: let it stand and settle
+hv237g,na - water usually treated by: cs
+hv237h,na - water usually treated by: cs
+hv237i,na - water usually treated by: cs
+hv237j,na - water usually treated by: cs
+hv237k,na - water usually treated by: cs
+hv237x,na - water usually treated by: other
+hv237z,na - water usually treated by: don't know
+hv238,number of households sharing toilet
+hv238a,location of toilet facility
+hv239,na - food cooked on stove or open fire
+hv240,"na - household has a chimney, hood or neither"
+hv241,na - food cooked in the house/ separate building/ outdoors
+hv242,na - household has separate room used as kitchen
+hv243a,has mobile telephone
+hv243b,na - has watch
+hv243c,has animal-drawn cart
+hv243d,has boat with a motor
+hv243e,has a computer
+hv244,owns land usable for agriculture
+hv245,hectares of agricultural land (1 decimal)
+hv246,"owns livestock, herds or farm animals"
+hv246a,owns cattle
+hv246b,owns cows/ bulls
+hv246c,owns horses/ donkeys/ mules
+hv246d,owns goats
+hv246e,owns sheep
+hv246f,owns chickens/poultry
+hv246g,owns pigs
+hv246h,na - owns cs
+hv246i,na - owns cs
+hv246j,na - owns cs
+hv246k,na - owns cs
+hv247,has bank account
+hv252,na - frequency household members smoke inside the house
+hv253,na - has dwelling been sprayed against mosquitoes in last 12 months
+hv253a,na - dwelling sprayed by: government worker/program
+hv253b,na - dwelling sprayed by: private company
+hv253c,na - dwelling sprayed by: ngo
+hv253d,na - dwelling sprayed by: cs
+hv253e,na - dwelling sprayed by: cs
+hv253f,na - dwelling sprayed by: cs
+hv253g,na - dwelling sprayed by: cs
+hv253h,na - dwelling sprayed by: cs
+hv253x,na - dwelling sprayed by: other
+hv253z,na - dwelling sprayed by: don't know
+hv270,wealth index combined
+hv271,wealth index factor score combined (5 decimals)
+hv270a,wealth index for urban/rural
+hv271a,wealth index factor score for urban/rural (5 decimals)
+hml1,number of mosquito bed nets
+hml1a,number of mosquito bed nets with specific information
+hml2,number of children under mosquito bed net previous night
+chl0,na - number of de-jure children 5-14 for child labor module
+sh109,type of cookstove
+sh119,mobile phone used financial transactions
+sh116g,has chair in traditional materials
+sh116h,has wardrobe / bookcase
+sh116i,has a stove
+sh116j,has gas or electric cooker
+sh116k,has improved fireplace
+sh116l,has air conditioner
+sh116m,has internet at home
+sh116n,has solar panel
+sh116o,has a generator
+sh117g,has plows
+sh117h,has a canoe
+sh117i,has a tractor
+sh117j,has a tiller
+sh117k,motorized seed drill
+sh117l,motorcycle tricycle
+shml1a,number of mosquito bed nets with specific information
+hv101,relationship to head
+hv102,usual resident
+hv103,slept last night
+hv104,sex of household member
+hv105,age of household members
+hv106,na - highest educational level attained
+hv107,na - highest year of education completed
+hv108,na - education completed in single years
+hv109,na - educational attainment
+hv110,na - member still in school
+hv111,na - mother alive
+hv112,na - mother's line number
+hv113,na - father alive
+hv114,na - father's line number
+hv115,current marital status
+hv116,"currently, formerly, never married"
+hv117,eligibility for female interview
+hv118,na - eligibility for male interview
+hv120,children eligibility for height/weight and hemoglobin
+hv121,na - member attended school during current school year
+hv122,na - educational level during current school year
+hv123,na - grade of education during current school year
+hv124,na - education in single years - current school year
+hv125,na - member attended school during previous school year
+hv126,na - educational level during previous school year
+hv127,na - grade of education during previous school year
+hv128,na - education in single years - previous school year
+hv129,na - school attendance status
+hv140,na - member has a birth certificate
+idxh4,index to household schedule
+sb115a,child suffering any illnesses or symptoms: extreme weakness
+sb115b,child suffering any illnesses or symptoms: inability to drink or breastfeed
+sb115c,child suffering any illnesses or symptoms: vomiting
+sb115d,child suffering any illnesses or symptoms: loss of conscious
+sb115e,child suffering any illnesses or symptoms: rapid breathing
+sb115f,child suffering any illnesses or symptoms: multiple seizures
+sb115g,child suffering any illnesses or symptoms: bleeding
+sb115h,child suffering any illnesses or symptoms: jaundice
+sb119,act given by a doctor or health center
+sb122,consent for act
+sb123,interviewer number
+sb128d,day of measurement
+sb128m,month of measurement
+sb128y,year of measurement
+shml13,net designation number (hmlidx) for 1st net person slept under last night
+shml14,net designation number (hmlidx) for 2nd net person slept under last night
+shml15,net designation number (hmlidx) for 3rd net person slept under last night
+hc0,index to household schedule
+hc1,child's age in months
+hc1a,child's age in days
+hc2,na - child's weight in kilograms (1 decimal)
+hc3,na - child's height in centimeters (1 decimal)
+hc4,na - height/age percentile
+hc5,na - height/age standard deviation
+hc6,na - height/age percent of ref. median
+hc7,na - weight/age percentile
+hc8,na - weight/age standard deviation
+hc9,na - weight/age percent of ref. median
+hc10,na - weight/height percentile
+hc11,na - weight/height standard deviation
+hc12,na - weight/height percent of ref. median
+hc13,na - result of measurement - height/weight
+hc15,na - height: lying or standing
+hc16,day of birth
+hc17,date measured (day)
+hc18,date measured (month)
+hc19,date measured (year)
+hc20,century day code (cdc) of measurement
+hc21,na - fieldworker measurer code
+hc27,sex
+hc30,month of birth
+hc31,year of birth
+hc32,date of birth (cmc)
+hc32a,century day code (cdc) of birth
+hc33,completeness of hc32 information
+hc51,line number of parent/caretaker
+hc52,read consent statement - hemoglobin
+hc53,hemoglobin level (g/dl - 1 decimal)
+hc55,result of measurement - hemoglobin
+hc56,hemoglobin level adjusted for altitude (g/dl - 1 decimal)
+hc57,anemia level
+hc58,na - agrees to referral - anemia
+hc60,mother's line number (woman's questionnaire)
+hc61,mother's highest educational level
+hc62,mother's highest year of education
+hc63,preceding birth interval (months)
+hc64,birth order number
+hc68,mother's highest educational level (for preliminary and final report)
+hc70,height/age standard deviation (new who)
+hc71,weight/age standard deviation (new who)
+hc72,weight/height standard deviation (new who)
+hc73,bmi standard deviation (new who)
+hc2a,na - child's weight in kilograms (1 decimal) - first measurement
+hc3a,na - child's height in centimeters (1 decimal) - first measurement
+hc15a,na - height: lying or standing - first measurement
+hc2b,na - child's weight in kilograms (1 decimal) - re-measurement
+hc3b,na - child's height in centimeters (1 decimal) - re-measurement
+hc15b,na - height: lying or standing - re-measurement
+hc35,na - reason for re-measurement
+hmlidx,mosquito bed net designation number
+hml3,net observed by interviewer
+hml4,months ago net obtained
+hml5,na - net treated with insecticide when bought
+hml6,na - net treatment status
+hml7,brand of net
+hml8,na - net treated since received
+hml9,na - time since last re-treatment (months)
+hml10,insecticide-treated net (itn)
+hml11,number of persons who slept under this net
+hml21,someone slept under this net last night
+hmla,line number of person who slept in this net
+hmlb,line number of person who slept in this net
+hmlc,line number of person who slept in this net
+hmld,line number of person who slept in this net
+hmle,na - line number of person who slept in this net
+hml22,"obtained net from campaign, antenatal or immunization visit"
+hml23,place where net was obtained
+sh130,reason net was not used
+hmhidx,index to household schedule
+hml12,type of mosquito bed net(s) person slept under last night
+hml13,net designation number (hmlidx) for 1st net person slept under last night
+hml14,net designation number (hmlidx) for 2nd net person slept under last night
+hml15,net designation number (hmlidx) for 3rd net person slept under last night
+hml16,corrected age from individual file
+hml16a,age in months (for children)
+hml17,flag for age from individual file
+hml18,pregnancy status from individual file
+hml19,person slept under an ever-treated net
+hml20,person slept under an llin net
+hml30,line number of parent/caretaker (for malaria testing)
+hml31,read consent statement for malaria
+hml32,na - final result of malaria from blood smear test
+hml32a,na - presence of species: falciparum (pf)
+hml32b,na - presence of species: malariae (pm)
+hml32c,na - presence of species: ovale (po)
+hml32d,na - presence of species: vivax (pv)
+hml32e,na - presence of species: cs
+hml32f,na - presence of species: cs
+hml32g,na - presence of species: cs
+hml33,result of malaria measurement
+hml34,bar code for blood smear sample
+hml35,result of malaria rapid test
+hml36,fieldworker measurer code for malaria
